@@ -1,5 +1,5 @@
 # README #
-Important step for git workflows:
+Very Important step for git workflows:
 
 1. Initialize repository with git init
 

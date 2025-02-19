@@ -1,4 +1,5 @@
 # README #
+## Table of Contents
 Very Important step for git workflows:
 
 1. Initialize repository with git init

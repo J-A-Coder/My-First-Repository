@@ -13,3 +13,5 @@ Very Important step for git workflows:
 5. Commit changes to verson history 
 
 6. Review previous changes with git log
+
+7. Move on
